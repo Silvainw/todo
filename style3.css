@@ -224,10 +224,38 @@ p {
   padding-left: 5px;
 }
 
-h2 {
+.Week3 {
   padding: 0;
 }
 
-h1 {
+.Weekover {
   padding-top: 10px;
+}
+
+h1{
+  text-align: center;
+}
+
+h2 {
+  padding-top: 250px;
+  text-align: center;
+}
+
+.pro{
+  text-align: center;
+}
+
+.paniekt {
+  background-color: white;
+  color: black;
+  padding: 1px 2px;
+  margin: 6px 0;
+  border: none;
+  cursor: pointer;
+  width: 40%;
+  font-size: 18px;
+  border-radius: 15px;
+  margin-left: 30%;
+  float: left;
+  margin-top: 20%;
 }
